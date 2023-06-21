@@ -1,7 +1,7 @@
 # 3D designs with Blender
 
 <div>
-  <h1>Render of a fridge magnet</h1>
+  <h2>Render of a fridge magnet</h2>
   <img alt="Frige magnet that has a text "MIND THE GAP"" src="/Renders/Fridge_magnet.png" width="80%" height="80%" />
 </div>
 </br>
