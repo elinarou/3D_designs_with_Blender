@@ -10,5 +10,5 @@
   <img alt="Room" src="/Renders/Room.png" width="80%" height="80%" />
   <img alt="A chair and a side table with a table lamp" src="/Renders/Chair.png" width="80%" height="80%" />
   <img alt="A table lamp" src="/Renders/Lamp.png" width="80%" height="80%" />
-  <img alt="Bar table and four chair bar stools" src="/Renders/table.png" width="80%" height="80%" />
+  <img alt="Bar table and four chair bar stools" src="/Renders/Table.png" width="80%" height="80%" />
 </div>
